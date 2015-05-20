@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="user">
+    <name>PLG_USER_VALIDTERMSFORM_NAME</name>
+    <author>Portal Directo</author>
+    <creationDate>14 de Mayo 2015</creationDate>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <authorEmail>info@portaldirecto.com</authorEmail>
+    <authorUrl>www.portaldirecto.com</authorUrl>
+    <version>1.0.0</version>
+    <description>PLG_USER_VALIDTERMSFORM_DESC</description>
+    <files>
+        <filename plugin="validtermsform">validtermsform.php</filename>
+        <filename>index.html</filename>
+        <folder>language</folder>
+        <folder>forms</folder>
+    </files>
+    <config>
+    </config>
+</extension>
